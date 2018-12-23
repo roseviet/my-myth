@@ -7,4 +7,4 @@ source ~/my-myth/my_fzfgitrc.sh
 alias loadZshConfig="source ~/.zshrc"
 alias loadProfile="source ~/.zprofile"
 
-
+alias h="cat ~/my-myth/* | fzf"
